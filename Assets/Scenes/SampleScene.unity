@@ -514,6 +514,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1735412906}
     m_Modifications:
+    - target: {fileID: 129436689376284769, guid: 57ab7a45013594dc98daf2f724733fa7, type: 3}
+      propertyPath: m_Text
+      value: 'Buy Foxglove
+
+'
+      objectReference: {fileID: 0}
     - target: {fileID: 847124698146633111, guid: 57ab7a45013594dc98daf2f724733fa7, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
