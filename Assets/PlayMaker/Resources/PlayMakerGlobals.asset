@@ -37,5 +37,4 @@ MonoBehaviour:
     categories:
     - 
     variableCategoryIDs: 00000000
-  events:
-  - Start Timer
+  events: []

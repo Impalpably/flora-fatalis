@@ -1,5 +1,0 @@
-{
-    "folderName": "DailyRewards",
-    "longVersion": "1.3.4",
-    "shortVersion": 2
-}
