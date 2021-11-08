@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: skyboxx
-  m_Shader: {fileID: -6465566751694194690, guid: 7435d2569171d4e9da8bcb392ca1c3c7,
+  m_Shader: {fileID: -6465566751694194690, guid: f39dbb3e488e4492fadf5939c156d997,
     type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -89,6 +89,8 @@ Material:
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _EnvironmentReflections: 1
+    - _Float: 25
+    - _Fog_Height: 25
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
@@ -103,6 +105,9 @@ Material:
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
+    - _StarSize: 150
+    - _Stars: 5
+    - _SunSize: 10
     - _Surface: 0
     - _WorkflowMode: 1
     - _ZWrite: 1
@@ -112,6 +117,8 @@ Material:
     - _Color_1: {r: 0.09700955, g: 0.0646137, b: 0.11320745, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
+    - _Sun_Directionn: {r: 0, g: 0, b: 0, a: 0}
+    - _Tiling: {r: 4, g: 8, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &2810603088289069921
 MonoBehaviour:
