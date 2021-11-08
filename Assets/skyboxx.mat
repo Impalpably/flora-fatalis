@@ -64,6 +64,10 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _Texture2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -109,12 +113,13 @@ Material:
     - _Stars: 5
     - _SunSize: 100
     - _Surface: 0
+    - _WindSpeed: 5
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
-    - _Color: {r: 0.1721698, g: 0.24133289, b: 0.5, a: 1}
-    - _Color_1: {r: 0.09700955, g: 0.0646137, b: 0.11320745, a: 0}
+    - _Color: {r: 0.09576034, g: 0.07342471, b: 0.20754719, a: 1}
+    - _Color_1: {r: 0.008677468, g: 0.14150941, b: 0.1173387, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _Sun_Directionn: {r: 10, g: 10, b: 10, a: 0}
