@@ -774,7 +774,6 @@ GameObject:
   - component: {fileID: 410087041}
   - component: {fileID: 410087040}
   - component: {fileID: 410087042}
-  - component: {fileID: 410087043}
   m_Layer: 0
   m_Name: Directional Light
   m_TagString: Untagged
@@ -879,18 +878,6 @@ MonoBehaviour:
   m_ShadowLayerMask: 1
   m_LightCookieSize: {x: 1, y: 1}
   m_LightCookieOffset: {x: 0, y: 0}
---- !u!114 &410087043
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 410087039}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 92dd9e55a8a9043b68968064ce854e5c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &445233469
 GameObject:
   m_ObjectHideFlags: 0
@@ -1657,7 +1644,7 @@ MonoBehaviour:
             typeName: UnityEngine.Object
             value: {fileID: 410087039}
           TargetTypeName: UnityEngine.GameObject
-          PropertyName: transform.rotation.x
+          PropertyName: transform.eulerAngles.x
           BoolParameter:
             useVariable: 0
             name: 
@@ -1792,19 +1779,19 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: -1
+          value: -180
         - useVariable: 0
           name: 
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 1
+          value: 180
         - useVariable: 0
           name: 
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 60
+          value: 10
         - useVariable: 1
           name: PercentComplete
           tooltip: 
