@@ -111,7 +111,7 @@ Material:
     - _SrcBlend: 1
     - _StarSize: 150
     - _Stars: 5
-    - _SunRadius: 1
+    - _SunRadius: 0.1
     - _SunSize: 0.5
     - _Surface: 0
     - _WindSpeed: 0.2
