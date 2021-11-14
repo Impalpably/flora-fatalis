@@ -136,6 +136,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PlantPanel
       objectReference: {fileID: 0}
+    - target: {fileID: 5282249096245835821, guid: cf443ae00a4d64ac387a9ba6efc46ac0,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5282249096245835822, guid: cf443ae00a4d64ac387a9ba6efc46ac0,
         type: 3}
       propertyPath: m_Pivot.x
@@ -244,12 +249,12 @@ PrefabInstance:
     - target: {fileID: 5282249096600247244, guid: cf443ae00a4d64ac387a9ba6efc46ac0,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5282249098260406740, guid: cf443ae00a4d64ac387a9ba6efc46ac0,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf443ae00a4d64ac387a9ba6efc46ac0, type: 3}
@@ -420,7 +425,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &172158029
 RectTransform:
   m_ObjectHideFlags: 0
@@ -514,6 +519,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Foxglove
+      objectReference: {fileID: 0}
+    - target: {fileID: 5282249096245835821, guid: cf443ae00a4d64ac387a9ba6efc46ac0,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5282249096245835822, guid: cf443ae00a4d64ac387a9ba6efc46ac0,
         type: 3}
@@ -623,12 +633,12 @@ PrefabInstance:
     - target: {fileID: 5282249096600247244, guid: cf443ae00a4d64ac387a9ba6efc46ac0,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5282249098260406740, guid: cf443ae00a4d64ac387a9ba6efc46ac0,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf443ae00a4d64ac387a9ba6efc46ac0, type: 3}
@@ -2308,6 +2318,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Angels Trumpet
       objectReference: {fileID: 0}
+    - target: {fileID: 5282249096245835821, guid: cf443ae00a4d64ac387a9ba6efc46ac0,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5282249096245835822, guid: cf443ae00a4d64ac387a9ba6efc46ac0,
         type: 3}
       propertyPath: m_Pivot.x
@@ -2416,12 +2431,12 @@ PrefabInstance:
     - target: {fileID: 5282249096600247244, guid: cf443ae00a4d64ac387a9ba6efc46ac0,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5282249098260406740, guid: cf443ae00a4d64ac387a9ba6efc46ac0,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf443ae00a4d64ac387a9ba6efc46ac0, type: 3}
