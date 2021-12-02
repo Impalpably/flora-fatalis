@@ -93,7 +93,7 @@ Material:
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _EnvironmentReflections: 1
-    - _Float: 10
+    - _Float: 2
     - _Fog_Height: 25
     - _GlossMapScale: 0
     - _Glossiness: 0
@@ -121,8 +121,12 @@ Material:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 0.09576034, g: 0.07342471, b: 0.20754719, a: 1}
     - _Color_1: {r: 0.008677468, g: 0.14150941, b: 0.1173387, a: 0}
+    - _DayColour1: {r: 0.7372549, g: 0.7237221, b: 0.34509805, a: 0}
+    - _DayColour2: {r: 0.22432362, g: 0.47491044, b: 0.6698113, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _FogColor: {r: 0, g: 0, b: 0, a: 0}
+    - _FogColor: {r: 0.11320752, g: 0.11320752, b: 0.11320752, a: 0}
+    - _NightColour1: {r: 0.6039216, g: 0.38076684, b: 0.27058825, a: 0}
+    - _NightColour2: {r: 0.01432895, g: 0.060073987, b: 0.13207546, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _SunDirection: {r: 0.5, g: 0.5, b: -0.5, a: 0}
     - _Sun_Directionn: {r: 0.5, g: 0.5, b: -0.5, a: 0}
