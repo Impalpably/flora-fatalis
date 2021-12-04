@@ -1683,7 +1683,7 @@ MonoBehaviour:
     password: 
     locked: 0
     manualUpdate: 0
-    outVariableIndices: 
+    outVariableIndices: 05000000
     keepDelayedEventsOnStateExit: 0
     preprocessed: 0
     ExposedEvents: []
