@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 57637
+  controlID: 61916
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -142,7 +142,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 57638
+  controlID: 61917
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -167,7 +167,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 57639
+  controlID: 61918
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -187,8 +187,8 @@ MonoBehaviour:
     y: 0
     width: 221.5
     height: 586
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 6}
   m_Panes:
   - {fileID: 6}
@@ -225,10 +225,10 @@ MonoBehaviour:
     m_SaveData: []
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
+      scrollPos: {x: 0, y: 96}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: c014f6ff488bf6ff320bf8ff360bf8ff400bf8ff4a0bf8ff540bf8ff560bf8ff580bf8ffa28df8ff388ff8ffbc33f9ff9e72f9ffe8c6faff50dbfaff423dfbff524cfbffaa91fdffe0faffffee7c00002e7d00004e7d0000de7d0000ea7d0000507e00007a7e00002a7f00003e7f00000a800000a6800000048100001a8100002e8100004e8100007c810000e4820000f68200009a83000066840000ca840000
+      m_ExpandedIDs: b056f4ffc014f6ff488bf6ff320bf8ff360bf8ff400bf8ff4a0bf8ff540bf8ff560bf8ff580bf8ffa28df8ff388ff8ffbc33f9ff9e72f9ffe8c6faff50dbfaff423dfbff524cfbffaa91fdffe0faffffee7c00002e7d00004e7d0000de7d0000ea7d0000507e00007a7e00002a7f00003e7f00000a800000a6800000048100001a8100002e8100004e8100007c810000e4820000f68200009a8300006684000096840000ca840000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -3788,7 +3788,7 @@ MonoBehaviour:
   - {fileID: 13}
   - {fileID: 14}
   m_Selected: 2
-  m_LastSelected: 1
+  m_LastSelected: 0
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -3831,21 +3831,21 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Shaders
+    - Assets/Music
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Shaders
+  - Assets/Music
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Users/sarah/Documents/GitHub/Flora Fatalis URP
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 346}
-    m_SelectedIDs: fc0b0100
-    m_LastClickedID: 68604
+    scrollPos: {x: 0, y: 330}
+    m_SelectedIDs: ee0b0100
+    m_LastClickedID: 68590
     m_ExpandedIDs: 0000000022890000e60b01000c0c0100180c01001c0c0100800c010000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -3899,9 +3899,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 0c0ff6ff
-    m_LastClickedInstanceID: -651508
-    m_HadKeyboardFocusLastEvent: 1
+    m_SelectedInstanceIDs: b056f4ff
+    m_LastClickedInstanceID: -764240
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000ac7c0000088200000c820000000000009e870000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -4001,6 +4001,18 @@ MonoBehaviour:
     selectionHistory:
       backList:
       - fsmComponentID: -620426
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -764254
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: 33948
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -797332
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -764248
         fsmComponent: {fileID: 0}
         fsmTemplate: {fileID: 0}
       - fsmComponentID: -655768
@@ -4380,9 +4392,9 @@ MonoBehaviour:
         zoom: 1
       - fsmComponentID: -620426
         fsmTemplate: {fileID: 0}
-        stateName: State 3
+        stateName: State 4
         stateNames:
-        - State 3
+        - State 4
         transitionIndex: -1
         scrollPosition: {x: 38.875, y: -70.921875}
         zoom: 0.8669976
@@ -4402,8 +4414,51 @@ MonoBehaviour:
         transitionIndex: 0
         scrollPosition: {x: -50, y: -75}
         zoom: 1
+      - fsmComponentID: 33948
+        fsmTemplate: {fileID: 0}
+        stateName: State 3
+        stateNames:
+        - State 3
+        transitionIndex: -1
+        scrollPosition: {x: -34.070312, y: -67.078125}
+        zoom: 1
+      - fsmComponentID: -764254
+        fsmTemplate: {fileID: 0}
+        stateName: State 4
+        stateNames:
+        - State 4
+        transitionIndex: -1
+        scrollPosition: {x: -34.070312, y: -67.078125}
+        zoom: 1
+      - fsmComponentID: -764248
+        fsmTemplate: {fileID: 0}
+        stateName: 
+        stateNames: []
+        transitionIndex: -1
+        scrollPosition: {x: -50, y: -75}
+        zoom: 1
+      - fsmComponentID: -797332
+        fsmTemplate: {fileID: 0}
+        stateName: State 1
+        stateNames:
+        - State 1
+        transitionIndex: 0
+        scrollPosition: {x: -50, y: -75}
+        zoom: 1
       recentlySelectedList:
       - fsmComponentID: -620426
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -764254
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: 33948
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -797332
+        fsmComponent: {fileID: 0}
+        fsmTemplate: {fileID: 0}
+      - fsmComponentID: -764248
         fsmComponent: {fileID: 0}
         fsmTemplate: {fileID: 0}
       - fsmComponentID: -655768
@@ -4575,7 +4630,7 @@ MonoBehaviour:
     m_CachedPref: -160
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
-  m_LastInspectedObjectInstanceID: -619704
+  m_LastInspectedObjectInstanceID: -1
   m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_InspectorMode: 0
@@ -4623,7 +4678,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c262c1329a02fa49b5cb4c297106f3f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_MinSize: {x: 133, y: 29}
+  m_MinSize: {x: 129, y: 28}
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: ProBuilder
