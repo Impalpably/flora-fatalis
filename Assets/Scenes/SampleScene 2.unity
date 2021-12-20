@@ -42442,6 +42442,21 @@ PrefabInstance:
       propertyPath: m_Text
       value: Gather Wolfsbane
       objectReference: {fileID: 0}
+    - target: {fileID: 5282249096245835817, guid: cf443ae00a4d64ac387a9ba6efc46ac0,
+        type: 3}
+      propertyPath: fsm.variables.floatVariables.Array.data[0].value
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 5282249096245835817, guid: cf443ae00a4d64ac387a9ba6efc46ac0,
+        type: 3}
+      propertyPath: fsm.variables.floatVariables.Array.data[1].value
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 5282249096245835817, guid: cf443ae00a4d64ac387a9ba6efc46ac0,
+        type: 3}
+      propertyPath: fsm.variables.floatVariables.Array.data[5].value
+      value: 100
+      objectReference: {fileID: 0}
     - target: {fileID: 5282249096245835821, guid: cf443ae00a4d64ac387a9ba6efc46ac0,
         type: 3}
       propertyPath: m_Name
@@ -68857,6 +68872,21 @@ PrefabInstance:
       propertyPath: m_Text
       value: Gather Nightshade
       objectReference: {fileID: 0}
+    - target: {fileID: 5282249096245835817, guid: cf443ae00a4d64ac387a9ba6efc46ac0,
+        type: 3}
+      propertyPath: fsm.variables.floatVariables.Array.data[0].value
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 5282249096245835817, guid: cf443ae00a4d64ac387a9ba6efc46ac0,
+        type: 3}
+      propertyPath: fsm.variables.floatVariables.Array.data[1].value
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 5282249096245835817, guid: cf443ae00a4d64ac387a9ba6efc46ac0,
+        type: 3}
+      propertyPath: fsm.variables.floatVariables.Array.data[5].value
+      value: 100
+      objectReference: {fileID: 0}
     - target: {fileID: 5282249096245835821, guid: cf443ae00a4d64ac387a9ba6efc46ac0,
         type: 3}
       propertyPath: m_Name
@@ -84219,12 +84249,12 @@ PrefabInstance:
     - target: {fileID: 5282249096245835817, guid: cf443ae00a4d64ac387a9ba6efc46ac0,
         type: 3}
       propertyPath: fsm.variables.floatVariables.Array.data[0].value
-      value: 10
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 5282249096245835817, guid: cf443ae00a4d64ac387a9ba6efc46ac0,
         type: 3}
       propertyPath: fsm.variables.floatVariables.Array.data[1].value
-      value: 20
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 5282249096245835817, guid: cf443ae00a4d64ac387a9ba6efc46ac0,
         type: 3}
@@ -94251,12 +94281,12 @@ PrefabInstance:
     - target: {fileID: 5282249096245835817, guid: cf443ae00a4d64ac387a9ba6efc46ac0,
         type: 3}
       propertyPath: fsm.variables.floatVariables.Array.data[0].value
-      value: 25
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 5282249096245835817, guid: cf443ae00a4d64ac387a9ba6efc46ac0,
         type: 3}
       propertyPath: fsm.variables.floatVariables.Array.data[1].value
-      value: 10
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 5282249096245835817, guid: cf443ae00a4d64ac387a9ba6efc46ac0,
         type: 3}
