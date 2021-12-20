@@ -4353,12 +4353,17 @@ PrefabInstance:
     - target: {fileID: 5282249096600247244, guid: cf443ae00a4d64ac387a9ba6efc46ac0,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5282249098260406740, guid: cf443ae00a4d64ac387a9ba6efc46ac0,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7504811351514141122, guid: cf443ae00a4d64ac387a9ba6efc46ac0,
+        type: 3}
+      propertyPath: m_Text
+      value: Self-Gather
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf443ae00a4d64ac387a9ba6efc46ac0, type: 3}
@@ -26739,12 +26744,17 @@ PrefabInstance:
     - target: {fileID: 5282249096600247244, guid: cf443ae00a4d64ac387a9ba6efc46ac0,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5282249098260406740, guid: cf443ae00a4d64ac387a9ba6efc46ac0,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7504811351514141122, guid: cf443ae00a4d64ac387a9ba6efc46ac0,
+        type: 3}
+      propertyPath: m_Text
+      value: Self-Gather
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf443ae00a4d64ac387a9ba6efc46ac0, type: 3}
@@ -42597,12 +42607,17 @@ PrefabInstance:
     - target: {fileID: 5282249096600247244, guid: cf443ae00a4d64ac387a9ba6efc46ac0,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5282249098260406740, guid: cf443ae00a4d64ac387a9ba6efc46ac0,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7504811351514141122, guid: cf443ae00a4d64ac387a9ba6efc46ac0,
+        type: 3}
+      propertyPath: m_Text
+      value: Self-Gather
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf443ae00a4d64ac387a9ba6efc46ac0, type: 3}
@@ -55597,7 +55612,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1207160034
 Transform:
   m_ObjectHideFlags: 0
@@ -69027,12 +69042,17 @@ PrefabInstance:
     - target: {fileID: 5282249096600247244, guid: cf443ae00a4d64ac387a9ba6efc46ac0,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5282249098260406740, guid: cf443ae00a4d64ac387a9ba6efc46ac0,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7504811351514141122, guid: cf443ae00a4d64ac387a9ba6efc46ac0,
+        type: 3}
+      propertyPath: m_Text
+      value: Self-Gather
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf443ae00a4d64ac387a9ba6efc46ac0, type: 3}
@@ -84401,12 +84421,17 @@ PrefabInstance:
     - target: {fileID: 5282249096600247244, guid: cf443ae00a4d64ac387a9ba6efc46ac0,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5282249098260406740, guid: cf443ae00a4d64ac387a9ba6efc46ac0,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7504811351514141122, guid: cf443ae00a4d64ac387a9ba6efc46ac0,
+        type: 3}
+      propertyPath: m_Text
+      value: Self-Gather
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf443ae00a4d64ac387a9ba6efc46ac0, type: 3}
@@ -94427,12 +94452,17 @@ PrefabInstance:
     - target: {fileID: 5282249096600247244, guid: cf443ae00a4d64ac387a9ba6efc46ac0,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5282249098260406740, guid: cf443ae00a4d64ac387a9ba6efc46ac0,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7504811351514141122, guid: cf443ae00a4d64ac387a9ba6efc46ac0,
+        type: 3}
+      propertyPath: m_Text
+      value: Self-Gather
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf443ae00a4d64ac387a9ba6efc46ac0, type: 3}
