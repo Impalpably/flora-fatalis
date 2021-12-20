@@ -1594,7 +1594,7 @@ MonoBehaviour:
       - useVariable: 1
         name: PlantProfit
         tooltip: 
-        showInInspector: 0
+        showInInspector: 1
         networkSync: 0
         value: 1.5
       - useVariable: 1
