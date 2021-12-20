@@ -6988,7 +6988,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1925119458}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!199 &352029089
 ParticleSystemRenderer:
@@ -28054,9 +28054,9 @@ MonoBehaviour:
             showInInspector: 0
             networkSync: 0
             typeName: UnityEngine.Object
-            value: {fileID: 81303210}
-          TargetTypeName: UnityEngine.GameObject
-          PropertyName: 
+            value: {fileID: 81303212}
+          TargetTypeName: UnityEngine.UI.Text
+          PropertyName: text
           BoolParameter:
             useVariable: 0
             name: 
@@ -28086,8 +28086,8 @@ MonoBehaviour:
             networkSync: 0
             value: {fileID: 0}
           StringParameter:
-            useVariable: 0
-            name: 
+            useVariable: 1
+            name: SpiderCount
             tooltip: 
             showInInspector: 0
             networkSync: 0
@@ -28131,7 +28131,7 @@ MonoBehaviour:
             tooltip: 
             showInInspector: 0
             networkSync: 0
-            typeName: 
+            typeName: System.String
             value: {fileID: 0}
           MaterialParameter:
             useVariable: 0
@@ -28162,7 +28162,7 @@ MonoBehaviour:
             tooltip: 
             showInInspector: 0
             networkSync: 0
-            enumName: HutongGames.PlayMaker.None
+            enumName: 
             intValue: 0
           ArrayParameter:
             useVariable: 0
@@ -28171,7 +28171,7 @@ MonoBehaviour:
             showInInspector: 0
             networkSync: 0
             type: -1
-            objectTypeName: UnityEngine.Object
+            objectTypeName: 
             floatValues: []
             intValues: 
             boolValues: 
@@ -28329,7 +28329,13 @@ MonoBehaviour:
         networkSync: 0
         value: 0
       boolVariables: []
-      stringVariables: []
+      stringVariables:
+      - useVariable: 1
+        name: SpiderCount
+        tooltip: 
+        showInInspector: 0
+        networkSync: 0
+        value: 
       vector2Variables: []
       vector3Variables: []
       colorVariables: []
@@ -28343,7 +28349,7 @@ MonoBehaviour:
       enumVariables: []
       categories:
       - 
-      variableCategoryIDs: 000000000000000000000000
+      variableCategoryIDs: 00000000000000000000000000000000
     description: 
     docUrl: 
     showStateLabel: 0
@@ -28574,9 +28580,9 @@ MonoBehaviour:
             showInInspector: 0
             networkSync: 0
             typeName: UnityEngine.Object
-            value: {fileID: 2122027293}
-          TargetTypeName: UnityEngine.GameObject
-          PropertyName: 
+            value: {fileID: 2122027295}
+          TargetTypeName: UnityEngine.UI.Text
+          PropertyName: text
           BoolParameter:
             useVariable: 0
             name: 
@@ -28606,8 +28612,8 @@ MonoBehaviour:
             networkSync: 0
             value: {fileID: 0}
           StringParameter:
-            useVariable: 0
-            name: 
+            useVariable: 1
+            name: SnailCount
             tooltip: 
             showInInspector: 0
             networkSync: 0
@@ -28651,7 +28657,7 @@ MonoBehaviour:
             tooltip: 
             showInInspector: 0
             networkSync: 0
-            typeName: 
+            typeName: System.String
             value: {fileID: 0}
           MaterialParameter:
             useVariable: 0
@@ -28682,7 +28688,7 @@ MonoBehaviour:
             tooltip: 
             showInInspector: 0
             networkSync: 0
-            enumName: HutongGames.PlayMaker.None
+            enumName: 
             intValue: 0
           ArrayParameter:
             useVariable: 0
@@ -28691,7 +28697,7 @@ MonoBehaviour:
             showInInspector: 0
             networkSync: 0
             type: -1
-            objectTypeName: UnityEngine.Object
+            objectTypeName: 
             floatValues: []
             intValues: 
             boolValues: 
@@ -29100,9 +29106,9 @@ MonoBehaviour:
             showInInspector: 0
             networkSync: 0
             typeName: UnityEngine.Object
-            value: {fileID: 1771848459}
-          TargetTypeName: UnityEngine.GameObject
-          PropertyName: 
+            value: {fileID: 1053065392}
+          TargetTypeName: UnityEngine.UI.Text
+          PropertyName: text
           BoolParameter:
             useVariable: 0
             name: 
@@ -29132,8 +29138,8 @@ MonoBehaviour:
             networkSync: 0
             value: {fileID: 0}
           StringParameter:
-            useVariable: 0
-            name: 
+            useVariable: 1
+            name: LBirdCount
             tooltip: 
             showInInspector: 0
             networkSync: 0
@@ -29177,7 +29183,7 @@ MonoBehaviour:
             tooltip: 
             showInInspector: 0
             networkSync: 0
-            typeName: 
+            typeName: System.String
             value: {fileID: 0}
           MaterialParameter:
             useVariable: 0
@@ -29208,7 +29214,7 @@ MonoBehaviour:
             tooltip: 
             showInInspector: 0
             networkSync: 0
-            enumName: HutongGames.PlayMaker.None
+            enumName: 
             intValue: 0
           ArrayParameter:
             useVariable: 0
@@ -29217,7 +29223,7 @@ MonoBehaviour:
             showInInspector: 0
             networkSync: 0
             type: -1
-            objectTypeName: UnityEngine.Object
+            objectTypeName: 
             floatValues: []
             intValues: 
             boolValues: 
@@ -29626,9 +29632,9 @@ MonoBehaviour:
             showInInspector: 0
             networkSync: 0
             typeName: UnityEngine.Object
-            value: {fileID: 85015183}
-          TargetTypeName: UnityEngine.GameObject
-          PropertyName: 
+            value: {fileID: 85015185}
+          TargetTypeName: UnityEngine.UI.Text
+          PropertyName: text
           BoolParameter:
             useVariable: 0
             name: 
@@ -29658,8 +29664,8 @@ MonoBehaviour:
             networkSync: 0
             value: {fileID: 0}
           StringParameter:
-            useVariable: 0
-            name: 
+            useVariable: 1
+            name: DeathCount
             tooltip: 
             showInInspector: 0
             networkSync: 0
@@ -29703,7 +29709,7 @@ MonoBehaviour:
             tooltip: 
             showInInspector: 0
             networkSync: 0
-            typeName: 
+            typeName: System.String
             value: {fileID: 0}
           MaterialParameter:
             useVariable: 0
@@ -29734,7 +29740,7 @@ MonoBehaviour:
             tooltip: 
             showInInspector: 0
             networkSync: 0
-            enumName: HutongGames.PlayMaker.None
+            enumName: 
             intValue: 0
           ArrayParameter:
             useVariable: 0
@@ -29743,7 +29749,7 @@ MonoBehaviour:
             showInInspector: 0
             networkSync: 0
             type: -1
-            objectTypeName: UnityEngine.Object
+            objectTypeName: 
             floatValues: []
             intValues: 
             boolValues: 
@@ -30140,9 +30146,9 @@ MonoBehaviour:
             showInInspector: 0
             networkSync: 0
             typeName: UnityEngine.Object
-            value: {fileID: 1771848459}
-          TargetTypeName: UnityEngine.GameObject
-          PropertyName: 
+            value: {fileID: 1053065392}
+          TargetTypeName: UnityEngine.UI.Text
+          PropertyName: text
           BoolParameter:
             useVariable: 0
             name: 
@@ -30172,8 +30178,8 @@ MonoBehaviour:
             networkSync: 0
             value: {fileID: 0}
           StringParameter:
-            useVariable: 0
-            name: 
+            useVariable: 1
+            name: BLadyCount
             tooltip: 
             showInInspector: 0
             networkSync: 0
@@ -30217,7 +30223,7 @@ MonoBehaviour:
             tooltip: 
             showInInspector: 0
             networkSync: 0
-            typeName: 
+            typeName: System.String
             value: {fileID: 0}
           MaterialParameter:
             useVariable: 0
@@ -30248,7 +30254,7 @@ MonoBehaviour:
             tooltip: 
             showInInspector: 0
             networkSync: 0
-            enumName: HutongGames.PlayMaker.None
+            enumName: 
             intValue: 0
           ArrayParameter:
             useVariable: 0
@@ -30257,7 +30263,7 @@ MonoBehaviour:
             showInInspector: 0
             networkSync: 0
             type: -1
-            objectTypeName: UnityEngine.Object
+            objectTypeName: 
             floatValues: []
             intValues: 
             boolValues: 
@@ -34059,7 +34065,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &886454005
 Transform:
   m_ObjectHideFlags: 0
@@ -41206,7 +41212,8 @@ Transform:
   m_LocalPosition: {x: 24.592552, y: -35.18, z: 481.64}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 2081329849}
   m_Father: {fileID: 661012713}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -74090,7 +74097,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1589274328
 Transform:
   m_ObjectHideFlags: 0
@@ -92285,7 +92292,6 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 2081329849}
   - {fileID: 352029088}
   m_Father: {fileID: 1657642655}
   m_RootOrder: 3
@@ -96523,12 +96529,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2081329848}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -10.731033, y: -35, z: 164.29999}
+  m_LocalRotation: {x: -0, y: 0.000000003243051, z: -0.000000003243051, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 365.6}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1925119458}
+  m_Father: {fileID: 1136805009}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!199 &2081329850
@@ -96552,7 +96558,7 @@ ParticleSystemRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 2ac81d4026273b947bec5ce2817c9bd3, type: 2}
+  - {fileID: 2100000, guid: b641f9482a76344c696e57f280e559a1, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -97239,7 +97245,7 @@ ParticleSystem:
     donutRadius: 0.2
     m_Position: {x: 0, y: 0, z: 0}
     m_Rotation: {x: 0, y: 0, z: 0}
-    m_Scale: {x: 1000, y: 20.32, z: 18.6}
+    m_Scale: {x: 1473.2, y: 288, z: 18.6}
     placementMode: 0
     m_MeshMaterialIndex: 0
     m_MeshNormalOffset: 0
